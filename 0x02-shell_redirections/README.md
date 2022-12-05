@@ -1,1 +1,1 @@
-Shell redirections assignment
+Script that prints Hello world
