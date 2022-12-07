@@ -1,2 +1,2 @@
-i#!/bin/bash
-printenv
+#!/bin/bash
+env
